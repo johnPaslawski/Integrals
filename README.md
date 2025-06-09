@@ -1,9 +1,9 @@
 # Project - Integration
 ---
 ## The program calculates the definite integral of a single-variable function using three methods:
-1. the rectangle method
-2. the trapezoidal method
-3. the Monte Carlo method
+### 1.  rectangle method
+### 2.  trapezoidal method
+### 3.  Monte Carlo method
 ***
 #### The integration bounds (<from; to>) are provided by the user. 
 #### Each integration method is implemented as a separate function, which takes a pointer to the integrand function as a parameter.
