@@ -18,9 +18,12 @@
     <ClCompile Include="Integrals.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="integral_functions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="integrals.h">
+    <ClInclude Include="integral_functions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
