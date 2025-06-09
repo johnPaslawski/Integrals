@@ -1,4 +1,4 @@
-# Project - Integration
+# Project - Integration ![integral image](./public/integral.png)
 ---
 ## The program calculates the definite integral of a single-variable function using three methods:
 ### 1.  rectangle method
