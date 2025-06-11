@@ -125,9 +125,11 @@
   <ItemGroup>
     <ClCompile Include="Integrals.c" />
     <ClCompile Include="integral_functions.c" />
+    <ClCompile Include="math_functions.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="integral_functions.h" />
+    <ClInclude Include="math_functions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

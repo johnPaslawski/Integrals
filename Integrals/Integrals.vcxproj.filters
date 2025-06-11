@@ -21,9 +21,15 @@
     <ClCompile Include="integral_functions.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="math_functions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="integral_functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="math_functions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
